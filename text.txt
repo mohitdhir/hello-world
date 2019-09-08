@@ -1,1 +1,2 @@
 This is my first line in the file 
+First Change, Adding second line in the text file
