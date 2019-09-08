@@ -1,4 +1,9 @@
 This is my first line in the file 
+<<<<<<< HEAD
 First Change, Adding second line in the text file
 
 This is a change when the file on server is already changed. Lets see what conflict it makes
+=======
+First Change, second line in the file. 
+Removed word from secodn line and added thrid line
+>>>>>>> b0340de27ef07f4291c0daf10cbdb5ece9aae868
