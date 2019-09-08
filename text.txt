@@ -1,2 +1,3 @@
 This is my first line in the file 
-First Change, Adding second line in the text file
+First Change, second line in the file. 
+Removed word from secodn line and added thrid line
