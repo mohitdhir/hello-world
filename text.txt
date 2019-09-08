@@ -1,2 +1,4 @@
 This is my first line in the file 
 First Change, Adding second line in the text file
+
+This is a change when the file on server is already changed. Lets see what conflict it makes
